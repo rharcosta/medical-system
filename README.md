@@ -17,7 +17,5 @@ In a conventional Medicine, it is necessary to register doctors, patients, queri
 
 <p align="center">
   <img src="https://github.com/rharcosta/medical-system/blob/main/Imagens/Entrada.png"/>
-  <img src="https://github.com/rharcosta/medical-system/blob/main/Imagens/Login.png"/>
-  <img src="https://github.com/rharcosta/medical-system/blob/main/Imagens/Validação.png"/>
   <img src="https://github.com/rharcosta/medical-system/blob/main/Imagens/Dados.png"/>
 </p>
