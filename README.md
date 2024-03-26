@@ -7,7 +7,7 @@ In a conventional Medicine, it is necessary to register doctors, patients, queri
 
 ## SOLUTION
 * With the aim of facilitating such registrations, also thinking about the need to carry it out through social distancing in a pandemic context, the program was developed to manage a registration system and visualize queries and results.
-* The developed system is aimed at Conventional Medicine and aims to be implemented in a small office, in order to resolve real everyday situations.
+* The developed system is aimed at conventional Medicine and aims to be implemented in a small office, in order to resolve real everyday situations.
 * In this way, integrating the project with a Database, it was possible to carry out a system that served both doctors and patients.
 * The system has a login page, area to check the patient's report, information for the doctor and various other functionalities.
 
